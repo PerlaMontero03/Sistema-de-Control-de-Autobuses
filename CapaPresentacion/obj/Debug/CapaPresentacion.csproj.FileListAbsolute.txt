@@ -1,0 +1,47 @@
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Bienvenida.resources
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Choferes.resources
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Autobuses.resources
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Rutas.resources
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Asignaciones.resources
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Asignaciones.resources
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Autobuses.resources
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Bienvenida.resources
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Choferes.resources
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.Rutas.resources
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

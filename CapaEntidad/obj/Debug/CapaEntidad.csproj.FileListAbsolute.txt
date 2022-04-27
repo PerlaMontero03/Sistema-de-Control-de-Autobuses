@@ -1,0 +1,12 @@
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaEntidad\obj\Debug\CapaEntidad.pdb

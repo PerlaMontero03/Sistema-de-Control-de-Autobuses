@@ -1,0 +1,22 @@
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\PERLA\source\repos\SegundoParcial - P2\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Perla M. Montero\OneDrive\Desktop\Programación 2 - BM\SegundoParcial - P2\CapaNegocios\obj\Debug\CapaNegocios.pdb
